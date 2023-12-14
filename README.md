@@ -10,3 +10,4 @@ Our project (future vision), I have decided two phases of the project.
 * 3rd ~ Third Phase : I will take advantage of the service of crop harvesting as well as integrating AI and ML (with the use of a robotic arm).
 
 I've Collect the Best Data Related to Agriculture Products to Train the Machine and Transform that's using ML or AI through to Grow the Farming. This can be implemented in our farms and can help the farmers in producing higher yield with his minimum efforts.
+![Farm](https://github.com/Naumaan777/Smart-Farm-Using-Automation_3725/assets/115418662/017b61d2-d807-4142-9120-056dfd9fca70)
